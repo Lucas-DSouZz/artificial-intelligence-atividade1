@@ -2,6 +2,11 @@
 #include "plan.h"
 #include <stdio.h>
 
+// Grupo:
+// Felipe Rovigatti Delfino
+// Lucas de Souza Silva
+
+
 int main(){
 
     int h, w, numDirt;
